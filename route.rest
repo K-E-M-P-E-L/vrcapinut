@@ -1,0 +1,40 @@
+###
+
+GET http://localhost:3001/vrca
+
+###
+
+GET http://localhost:3001/vrca/6036a15950b85653f485bcde
+
+
+###
+
+POST http://localhost:3001/vrca
+Content-Type: application/json
+
+{
+    "userID": "usr_bf4d1085-7f47-4e92-bd59-7c2a6f014316",
+    "playerName": "ToastySmokey",
+    "avatarID": "avtr_d267a397-6572-4567-8350-f06dca2fded4",
+    "avatarName": "NekoKanna by_Yokkee",
+    "avatarDescription": " ",
+    "assetURL": "https://api.vrchat.cloud/api/1/file/file_ce0c5079-1e73-4123-92a2-42989ebf914b/5/file",
+    "imageURL": "https://api.vrchat.cloud/api/1/file/file_97e682fe-ed75-4c56-8081-8e4f254a18d6/2/file",
+    "releaseStatus": "public",
+    "version": "5"
+}
+
+###
+
+DELETE http://localhost:3001/vrca/6036a15950b85653f485bcde
+
+###
+
+PATCH http://localhost:3001/vrca/6036a15950b85653f485bcde
+Content-Type: application/json
+
+{
+    "author": "kempel",
+    "joke": "new poggers",
+    "jokeE": "new poggers"
+}

@@ -1,0 +1,47 @@
+GET http://localhost:3001/genres
+
+###
+
+GET http://localhost:3001/bands
+
+###
+
+GET http://localhost:3001/band/6051f33ec17ed545c8e2ad81
+
+
+###
+
+POST http://localhost:3001/addgenre
+Content-Type: application/json
+
+{
+    "genreName": "R&B"
+}
+
+###
+
+POST http://localhost:3001/addband
+Content-Type: application/json
+
+{
+    "bandName": "Drake",
+    "bandGenre": "604742083a22190838258354"
+}
+
+
+###
+
+DELETE  http://localhost:3001/deleteband/6051f32bc17ed545c8e2ad80
+
+###
+
+PATCH   http://localhost:3001/updateband/6051f33ec17ed545c8e2ad81
+Content-Type: application/json
+
+{
+    "newBandName": "jazz jam",
+    "newBandKategori": "6051f329c17ed545c8e2ad7f"
+
+
+}
+

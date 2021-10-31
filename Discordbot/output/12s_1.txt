@@ -1,0 +1,7 @@
+Avatar Name: Bikini Ukon_SDK3
+AvatarID: avtr_e7b3e5d2-0637-48ef-ab32-2fb845a7b2ba
+Player NameName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Asset URL: https://api.vrchat.cloud/api/1/file/file_2e77afe7-2e5a-49b4-9c11-8e1f52aa2818/65/file
+ImageURL: https://api.vrchat.cloud/api/1/file/file_99d6ee97-8fc2-4235-98ec-fcbd54f57e0e/5/file
+Release Status: public

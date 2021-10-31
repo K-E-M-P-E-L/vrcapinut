@@ -1,0 +1,430 @@
+Avatar Name: Bikini Ukon_SDK3
+AvatarID: avtr_e7b3e5d2-0637-48ef-ab32-2fb845a7b2ba
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_2e77afe7-2e5a-49b4-9c11-8e1f52aa2818/65/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_99d6ee97-8fc2-4235-98ec-fcbd54f57e0e/5/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Maid Ukon_2_SDK3
+AvatarID: avtr_de75efc5-c67c-4ae8-8a14-cafa07d0fcad
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_f039202f-17d1-4bc7-bd1f-2722aa9e024f/20/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_b399f2fc-b3ad-45fd-8ec0-80494de27f76/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Bikini Miko_SDK3
+AvatarID: avtr_83e3e8f2-c95d-48a0-90e4-bf9dc7c311f0
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_65cdd025-b269-4617-8de9-cc76d31124a2/32/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_73d5a117-4738-4515-ba08-2f238088f9ab/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Student Ukon_SDK3
+AvatarID: avtr_d6f84f4c-7f4b-4830-888b-b9bfcaa748ec
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_80ac23c2-7b9f-405f-b939-b795142b8690/10/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_dffb9f0b-1b8d-496e-b94b-71a5a7a0d02b/3/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Neet Ukon_SDK3
+AvatarID: avtr_54c23930-3579-47f7-ac3c-ccd893bfcc30
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_697b6b11-0a60-4339-812c-86c4b333efc1/17/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_ab97bb73-c3ba-4e16-b038-90eed5b0bd95/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Uniform Ukon_SDK3
+AvatarID: avtr_4f692b06-6c08-403d-ae6f-d8155bcce5c7
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_779098d2-2932-4565-bdf5-2eb6ce5957d2/49/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_ee50d62d-e9e1-448b-8de9-5e00f891afac/7/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Maid Ukon_SDK3
+AvatarID: avtr_661873a6-0302-4d39-8bce-68b2b64d99ba
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_da325405-115b-4957-9f06-12eab70ebbcd/45/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_efdfc282-0a87-457f-8db6-f7b46af35bca/5/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Black Dress Miko_SDK3
+AvatarID: avtr_bd1a9268-22e9-4669-9ffa-6a425776f442
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_7b1c42a1-9aa1-41a3-a120-ddf9e450b276/19/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_896236a2-4d99-49c4-9078-3986e83e8f1a/3/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Shirt Miko_SDK3
+AvatarID: avtr_8c85f1b5-e409-4d7e-8192-82cdb7434dcb
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_4aeaf190-8510-41e5-a557-cfe1bca4ff1c/24/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_d2db3909-ac82-49da-a576-c939c5efefd9/3/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Onsen Ukon_SDK3
+AvatarID: avtr_52358a1b-9d27-45e3-a8f4-ff09f5757d47
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_7bdd48ef-e4f0-4e1f-9080-b959518fd46b/12/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_744fd79c-26ed-49c0-8f54-e26bb2af6131/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Qipao Ukon_SDK3
+AvatarID: avtr_c5c34eec-9963-4dfb-afd6-8e7fa48eb8c5
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_04765834-1153-40f9-b8a4-d4759636b5f7/11/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_663b00bf-7f65-4d14-b68d-e194552f8c95/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Maid Miko_2_SDK3
+AvatarID: avtr_b05cf828-5abc-4a05-a312-6788170042c0
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_3739d1d4-7bc5-4ae9-b54e-0bdbbe9a22ba/17/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_a0534a0d-add6-4da2-8c4a-828da13acec3/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Cowgirl Ukon_SDK3
+AvatarID: avtr_c557d997-930b-4d4a-8db9-773be87666da
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_de47a6fa-5607-4f25-a183-5190551f0512/20/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_af8d9d78-5085-460a-84fc-9102e760ddf1/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Bunny Ukon_SDK3
+AvatarID: avtr_849c8e80-4cab-4cfd-ae6c-01f4efa57279
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_3c5ae7e0-f421-4b61-aa8a-097623294f7f/18/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_c56d66bb-a544-4982-80c0-0525795e8fd2/3/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Summer Uniform Ukon_SDK3
+AvatarID: avtr_2bffd016-8340-479e-ad5d-e5c05f67f335
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_264fe356-239a-416d-a6bc-629a3f45aeb9/13/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_7618fe60-c4bc-4f85-b4e5-7f8cbab417f5/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Momo Miko_SDK3
+AvatarID: avtr_f3eae249-1eac-49ce-9fdc-8ba9ebd8864e
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_8296fc19-0738-4291-a16f-0e2f38d01f3d/12/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_0003e122-5172-4873-8ed2-40cd41da7c7c/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Hammey SDK3
+AvatarID: avtr_d985ca7f-0d32-4fb1-b0b2-a2b231b6f853
+Avatar AuthorName: Hammey
+Author ID: mrq2pSMdHW
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_af97c687-55cc-4260-a801-bdf4296e94bc/189/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_753b8938-e47b-4bd3-8e45-f507cd40fbe6/7/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Yuiko_SDK3
+AvatarID: avtr_32f42a58-a2d8-4dcd-b727-2087e1142489
+Avatar AuthorName: xwidghet
+Author ID: usr_430fc020-649d-4f2e-9ec2-fbc2516d1f13
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_1f46d43c-8295-4f6e-8614-031d3deed1d4/509/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_5944e76d-2f01-4477-97fd-602eebcffd18/2/file
+ReleaseStatus: private
+
+
+
+Avatar Name: hotarun_natu_SDK3_ver․1․0․5
+AvatarID: avtr_2c13282f-1661-45a8-bfdb-1e55e3c8cab1
+Avatar AuthorName: Hotarun
+Author ID: usr_5016742e-e8e0-4316-86a0-db165057a58c
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_c3e7beb7-19c3-443b-98ed-1ba885ea2d52/31/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_3c702dfb-46d6-424e-aa9e-3fbd378c9199/2/file
+ReleaseStatus: private
+
+
+
+Avatar Name: OpSDK3
+AvatarID: avtr_26612835-1614-4165-bae8-656c5769d155
+Avatar AuthorName: BitReaper
+Author ID: usr_57acb10f-98c7-48c3-93e8-3b7f4ab7e87f
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_6a0ab859-e8c2-46e2-994a-36348d061f67/2/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_af16b390-1558-425e-a00d-cf06dbe444d0/1/file
+ReleaseStatus: private
+
+
+
+Avatar Name: NoeNoe Adult SDK3
+AvatarID: avtr_1a05ff9f-95f0-428d-bfbc-e52b6c03cda2
+Avatar AuthorName: Noe
+Author ID: usr_5a3a4a71-d495-402b-bcab-cef11ae5d5d4
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_0c6baecc-a64b-4642-ab51-06ac92ca9c57/30/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_d060009a-0c0f-4450-9a5b-4843fdc9a778/1/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Celena Shadow SDK3
+AvatarID: avtr_d7bd313e-eb50-48ee-a583-7010db91ccef
+Avatar AuthorName: Leviant￹
+Author ID: usr_bcdcf565-30c7-400f-8dbb-72e822c76921
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_6db536d2-d327-4599-a3db-6350116faa0f/13/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_5cfc91e9-f7de-49fa-ac48-b2ecb66be6fa/2/file
+ReleaseStatus: public
+
+
+
+Avatar Name: NoeNoe Adult Summer SDK3
+AvatarID: avtr_ffc86e31-8070-4812-8a47-889d5d0c4e00
+Avatar AuthorName: Noe
+Author ID: usr_5a3a4a71-d495-402b-bcab-cef11ae5d5d4
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_c52d9bef-ac85-4277-95b8-1468280b5fd2/23/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_5e5b68da-63e2-4b2a-a3d5-bb4e69f7b491/1/file
+ReleaseStatus: private
+
+
+
+Avatar Name: SDK3UkonDemo
+AvatarID: avtr_36fe2f32-8ab6-43a4-bb37-8c180908d6c3
+Avatar AuthorName: svup1
+Author ID: usr_bfc530cc-8a6f-4ea6-9d84-0823de1046fa
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_9615feca-a28b-4992-aa6b-abe87e5b903b/25/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_1d7f15d0-ed03-4bee-9201-d9431b27b954/1/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Gritchi SDK3
+AvatarID: avtr_c3d77dcd-c608-44d7-b26b-4ecfd5bd58ed
+Avatar AuthorName: Grit Gryphon
+Author ID: usr_5a7464ea-1270-4576-bddf-c64e94c0c41f
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_2bfd4d9a-b093-41f6-809e-d00bc106d834/4/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_760d67f8-ba96-42ce-b34f-263b9730f6ea/2/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Mannequin 3․0 SDK3 AV3
+AvatarID: avtr_a10c1a32-b256-423c-bf80-70cee5fae2ea
+Avatar AuthorName: voxie
+Author ID: usr_1a81bdb9-73d3-4bf6-8d7b-c54de2380752
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_18d37aaa-3f6d-41bd-adda-5f86ae35a14c/10/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_2a0bed06-c93a-425e-ba03-9075390e30f5/1/file
+ReleaseStatus: public
+
+
+
+Avatar Name: CRIMINAL USAGI SDK3
+AvatarID: avtr_6b2cdf07-5a0e-4376-aba5-ae57f1b477f3
+Avatar AuthorName: digiponta
+Author ID: usr_84dbd7e8-4bde-4fe0-ab21-944850e27867
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_bf02efb7-a9b8-4c03-82d1-2404e1a46090/125/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_c86ce50a-8b46-4282-bec3-7f486217533f/12/file
+ReleaseStatus: private
+
+
+
+Avatar Name: SDK3 Alisa Casual 1․71
+AvatarID: avtr_9e1bd934-ded5-4016-8c5c-a062787546b3
+Avatar AuthorName: Falbere
+Author ID: usr_119df898-b18e-4eb3-bdee-b5ab4de7e00f
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_6b048ed0-c4f0-4550-b973-9718eb192150/152/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_be578b66-8e6e-498a-bb45-0a9a5dbc08a6/2/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Mishe（SDK3_1․03）
+AvatarID: avtr_a2bb9e2f-9824-4bb8-accc-e4cd00ff0c92
+Avatar AuthorName: axtuki1
+Author ID: usr_8e298678-6898-4d38-9296-f1e74f51258e
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_d95bb366-bd4b-427b-be82-4c067bc917c1/147/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_b495f624-23c9-4abd-b6bd-1bf3b9ac6ef5/2/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Quiche（SDK3_3․06）
+AvatarID: avtr_e92597c1-7ca5-469f-992f-ddc32da47299
+Avatar AuthorName: axtuki1
+Author ID: usr_8e298678-6898-4d38-9296-f1e74f51258e
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_169c6df5-0ff4-4a34-888c-4f29fcce3569/50/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_3ff2b568-f9ec-461f-99c9-910a493bbd78/1/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Remuy_Smaller_SDK3
+AvatarID: avtr_371c2556-06d6-450d-8310-a5fa73616cb9
+Avatar AuthorName: brandon2071
+Author ID: usr_84c46a9b-9b80-44ab-ac45-abd938af75ed
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_231e3ea8-b43b-4168-821b-b382b45c05be/22/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_dcd0801a-393b-47f0-8de5-0376fec17480/1/file
+ReleaseStatus: private
+
+
+
+Avatar Name: あかねSDK3_Ver4
+AvatarID: avtr_b5b148f4-5544-4fcc-81b6-332c3f82af1d
+Avatar AuthorName: ばーきん
+Author ID: usr_2be6dbbc-e3ec-4907-8975-b462ad6991bb
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_536925a9-974f-475e-a3b0-36bdb0f17897/30/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_f2733365-d00b-4244-9b5a-8fae17d2bdb2/17/file
+ReleaseStatus: private
+
+
+
+Avatar Name: 瑠璃ちゃんSDK3_V1SDK3_V1
+AvatarID: avtr_0c6962f7-54aa-467f-bfc1-c12e697e4390
+Avatar AuthorName: ばーきん
+Author ID: usr_2be6dbbc-e3ec-4907-8975-b462ad6991bb
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_f5d29aad-093a-4a4e-94a1-9e8ce8464685/6/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_9ae3e379-6fac-43b4-bba3-872815a4b974/4/file
+ReleaseStatus: private
+
+
+
+Avatar Name: LolyaVanillaRedSDK3
+AvatarID: avtr_fbaa063c-42ac-4058-a50d-66cd99cfec43
+Avatar AuthorName: XJlE6OGÄNGER
+Author ID: usr_e777d49c-e891-4199-888a-117a090c1e6d
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_6bdc6022-b2fe-4b17-8ea5-f4a78ce802bb/12/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_54a5f6ec-0583-4e93-bee7-21046ee4a6c7/1/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Maid Haku_SDK3
+AvatarID: avtr_0231917c-1edc-4149-8bd9-1c740431531c
+Avatar AuthorName: 마끼아또
+Author ID: usr_e0c49cff-8c91-4eda-9833-01b3e3ef0c95
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_eab6ac77-06a6-4226-adff-a14c20c69e83/12/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_855297b9-8978-4578-9a41-7c5c3bfb4b79/4/file
+ReleaseStatus: public
+
+
+
+Avatar Name: リル Atlased SDK3 v0․6
+AvatarID: avtr_cd3d482e-9e0d-4089-95e5-278d3ec76c9d
+Avatar AuthorName: Phrap
+Author ID: Sudvgy4bZd
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_c151f463-e825-43ab-90bb-cdf004121b39/6/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_57688829-e584-49bb-bf94-4c74bba57a13/1/file
+ReleaseStatus: private
+
+
+
+Avatar Name: モミツシェ モカ SDK3 v0․7
+AvatarID: avtr_2f79a768-cd16-41d5-bf7a-c03521464d82
+Avatar AuthorName: Phrap
+Author ID: Sudvgy4bZd
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_46dc42cf-37cb-48bc-970c-152b78559e94/9/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_a2d750b3-7da0-4048-ba7d-4444c661b87e/2/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Makayla SDK3 Public
+AvatarID: avtr_0c51e2d9-1516-461d-8aac-18588ea57265
+Avatar AuthorName: Nitroz
+Author ID: usr_1c262a0b-d26b-495a-94d7-d4fcaba54118
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_fc5dba1d-0223-4cf9-85be-0eaf26c78859/11/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_d845d036-bac3-4104-9a19-9c40804fa39a/1/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Ruben_SDK3
+AvatarID: avtr_a39b2598-9f02-42a8-88fd-97100ed1874c
+Avatar AuthorName: ...ruben
+Author ID: usr_874a2c8f-18ab-4b55-816d-c385a743c3e2
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_08bb36a5-a46d-46bb-8a68-cab20c4204cf/2/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_7b0bfabd-9f9c-4213-838e-067a16e2d9e0/1/file
+ReleaseStatus: public
+
+
+
+Avatar Name: Approx RL height proto SDK3
+AvatarID: avtr_52c859c0-c3de-457c-9d98-aa0351be2a8d
+Avatar AuthorName: Renthur
+Author ID: usr_815a8b0c-938c-4119-adef-ae978611bcf7
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_5307bb13-c07d-491c-88d0-49f868bdaf1a/9/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_10f0eaed-810d-4571-91d9-8d1ea9653c67/1/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Onesie SDK3
+AvatarID: avtr_b8f40602-f8d9-4918-8d8b-3696544bd143
+Avatar AuthorName: Gæy Boi
+Author ID: usr_97443a0c-7b17-45ce-831d-0554a85fe9c9
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_adeec769-60b5-4e3a-b43f-de0126f432ae/12/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_3b15022b-5b98-4aa9-9574-959aea966a41/2/file
+ReleaseStatus: private
+
+
+
+Avatar Name: Canada Ukon （SDK3）
+AvatarID: avtr_0b6e38e6-d1ed-4b3d-aed3-b3eee750c77f
+Avatar AuthorName: MissingNO123
+Author ID: usr_3be9edf2-031c-4f23-8a1c-93511816ce36
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_3e937690-d789-4ac2-8d3d-c0b0e1993f63/10/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_2aecc960-6253-400c-a7e5-84db7fa55043/1/file
+ReleaseStatus: public
+
+
+
+Avatar Name: WinterLolyaSDK3
+AvatarID: avtr_f7615a15-c515-41ea-a5a8-85171a0a26fd
+Avatar AuthorName: XJlE6OGÄNGER
+Author ID: usr_e777d49c-e891-4199-888a-117a090c1e6d
+Avatar AssetUrl: https://api.vrchat.cloud/api/1/file/file_abb0acea-133f-44df-951c-9a4e64fda233/5/file
+Avatar ImageURL: https://api.vrchat.cloud/api/1/file/file_f6a78b02-791e-47e9-b4db-5986d772d318/1/file
+ReleaseStatus: public
+
+
+

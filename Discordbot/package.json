@@ -1,0 +1,25 @@
+{
+  "name": "commandhandler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reconlx/discord.js": "^1.1.101",
+    "ascii-table": "0.0.9",
+    "create-temp-file": "^2.0.0",
+    "discord.js": "^12.2.0",
+    "got": "^11.8.2",
+    "images-scraper": "^6.3.0",
+    "jfile": "^1.1.12",
+    "mongoose": "^5.12.2",
+    "reconlx": "^1.2.41",
+    "tmp": "^0.2.1",
+    "translate-google": "^1.4.3"
+  }
+}

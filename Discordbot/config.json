@@ -1,0 +1,9 @@
+{
+    "token": "ODI1NzY5ODU5OTc5MDE4Mjcy.YGCwHA.764TC8yRk8EuZ6SpEkJiTxdi05c",
+    "prefix": "?",
+    "youtube_api_key": "AIzaSyCZVpUclSls_70M7nyjop0vPts0f89k3tw",
+    "queue_limit": 0,
+    "spotify_api_key": "BQADTWbHxKeUAovAcNgy22mygxUwWQj8M3VdkD2JmAzSmXsRIZ0g0DocMUFn7chKN2Hu23v94VqzNWji_WIKqqWwmWPwNiP_TlCQL_AoR0bqwVCv_nIsGiLOdO9YyuztxSozJhDdT1YbU05uIHVlBxGGGncIBHja",
+    "soundcloud_api_key": "",
+    "mongodb": "mongodb+srv://Kempel:Buster2013@cluster0.umvrm.gcp.mongodb.net/vrca"
+}
